@@ -1,3 +1,8 @@
+## fastapiインストール
+仮想環境を作成後、
+```
+pip install "fastapi[standard]"
+```
 ## main.pyの起動
 ```
 fastapi dev main.py
